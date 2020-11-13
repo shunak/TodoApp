@@ -1,1 +1,4 @@
-Now Editing...
+
+# Todo App
+
+This is a todo application by Typescript.
